@@ -2,6 +2,8 @@
 
 Can be found at: http://mi-linux.wlv.ac.uk/~1610476/index.php/welcome/home
 
+The website was built in code igniter, but for simplicty I have only included the MVC files that I personally created. 
+
 This is a text-based MMO, such as Torn City, that utilises AJAX and new HTML5 features such as drag and drop and built in security. 
 
 Technical specifications:
