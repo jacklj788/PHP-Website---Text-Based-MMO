@@ -1,0 +1,1 @@
+<p>Your worked and gained <?php echo $gold; ?> gold! (Don't spend it all at once)</p>
